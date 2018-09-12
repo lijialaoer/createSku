@@ -1,1 +1,1 @@
-# createSkuerererer222222
+# 动态创建sku,并用表格显示
